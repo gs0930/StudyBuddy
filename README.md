@@ -1,34 +1,11 @@
-# Web Development Project 7 - *Study Buddies*
+# *Study Buddies*
 
-Submitted by: **Emily Suh**
+Created by: **Emily Suh**
 
 This web app: **This app helps people find studymates**
 
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x ] **A create form allows users to add new cremates**
-- [x ] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [x ] **The site displays a summary page of all the user's added crewmates**
-- [x ] **A previously created crewmate can be updated and deleted from the crewmate list**
-- [x ] **Each crewmate has a direct, unique link to an info page about them**
-
-The following **optional** features are implemented:
-
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
-- [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 
 ![](https://github.com/gs0930/StudyBuddy/blob/master/Project_7.gif)
 <!-- Replace this with whatever GIF tool you used! -->
@@ -38,9 +15,6 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 

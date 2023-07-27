@@ -8,12 +8,6 @@ This web app: **This app helps people find studymates**
 ## Video Walkthrough
 
 ![](https://github.com/gs0930/StudyBuddy/blob/master/Project_7.gif)
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 
 ## License
